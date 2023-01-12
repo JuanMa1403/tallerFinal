@@ -1,0 +1,5 @@
+runners\CucumberTestSuite.class
+pageObject\Home.class
+stepsDefinitions\OpenCuraStepsDefinitions.class
+actions\SelectOptions.class
+pageObject\Cita.class
